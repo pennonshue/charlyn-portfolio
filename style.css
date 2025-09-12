@@ -111,7 +111,7 @@ header {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  color: #d93b3b;
+  color: #f8fa9b;
   white-space: nowrap;
 }
 
@@ -134,7 +134,7 @@ header {
   border-right: 2px solid rgba(255,255,255,.75);
   font-size: 70px;
   font-family: "Funnel Sans", sans-serif;
-  color: #d93b3b;
+  color: #f8fa9b;
 
   max-width: 0; 
 }
